@@ -1,1 +1,3 @@
-print("hello world, hiw you guys doing ayye this is the breanch 2 u see")
+tup = ((1,2), (3,4), (5,6))
+tup2 = sum(tup, ())
+print(tup2)
